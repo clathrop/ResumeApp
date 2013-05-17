@@ -1,0 +1,5 @@
+ResumeApp.ResumeApp;resumeapp.ResumeApp
+ResumeApp.ResumeApp.AboutMeActivity;resumeapp.ResumeApp_AboutMeActivity
+ResumeApp.ResumeApp.EducationActivity;resumeapp.ResumeApp_EducationActivity
+ResumeApp.ResumeApp.WorkExperienceActivity;resumeapp.ResumeApp_WorkExperienceActivity
+ResumeApp.ResumeApp.LeadershipActivity;resumeapp.ResumeApp_LeadershipActivity
